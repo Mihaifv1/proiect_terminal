@@ -1,0 +1,33 @@
+4096 .
+4096 ..
+24 in5.txt
+5 in4.txt
+4096 dir1
+    0 file_diff1.txt
+    4096 dir4
+        18 in4.txt
+        4096 dir7
+            6 comp_2.txt
+        5 in2.txt
+        4096 dir6
+            8 comp_1.txt
+            4096 dir11
+                72 data18_file2.in
+                138 data18_file1.in
+    27 in3.txt
+    4096 dir2
+        0 file_diff2.txt
+    4096 dir8
+        121 data16_file2.in
+        119 data16_file1.in
+        4096 dir10
+            98 data17_file2.in
+            48 data17_file1.in
+4096 dir2
+    32 in1.txt
+4096 dir3
+    69 data19_file1.in
+    4096 dir9
+        79 data20_file1.in
+        88 data20_file2.in
+    76 data19_file2.in
